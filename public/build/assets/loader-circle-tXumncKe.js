@@ -1,0 +1,6 @@
+import{j as e,L as l}from"./app-BjAZTBVF.js";import{h as r,c as n}from"./createLucideIcon-BEN0C8dM.js";function i({children:c,title:s,description:a}){return e.jsx("div",{className:"flex min-h-svh flex-col items-center justify-center gap-6 bg-background p-6 md:p-10",children:e.jsx("div",{className:"w-full max-w-sm",children:e.jsxs("div",{className:"flex flex-col gap-8",children:[e.jsxs("div",{className:"flex flex-col items-center gap-4",children:[e.jsxs(l,{href:r(),className:"flex flex-col items-center gap-2 font-medium",children:[e.jsx("div",{className:"mb-1 flex h-9 w-9 items-center justify-center rounded-md",children:e.jsx("img",{src:"/logo.png"})}),e.jsx("span",{className:"sr-only",children:s})]}),e.jsxs("div",{className:"space-y-2 text-center",children:[e.jsx("h1",{className:"text-xl font-medium",children:s}),e.jsx("p",{className:"text-center text-sm text-muted-foreground",children:a})]})]}),c]})})})}function x({children:c,title:s,description:a,...t}){return e.jsx(i,{title:s,description:a,...t,children:c})}/**
+ * @license lucide-react v0.475.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */const m=[["path",{d:"M21 12a9 9 0 1 1-6.219-8.56",key:"13zald"}]],f=n("LoaderCircle",m);export{x as A,f as L};
